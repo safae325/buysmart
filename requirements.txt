@@ -1,4 +1,4 @@
-opencv-python-headless==4.5.5.64  # Headless version for server
+opencv-python-headless==4.10.0.84
 annotated-types==0.7.0
 anyio==4.6.2.post1
 certifi==2024.8.30
