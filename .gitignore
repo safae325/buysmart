@@ -1,0 +1,15 @@
+# Ignore virtual environments
+env/
+venv/
+buysmart_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore OS and IDE-specific files
+.DS_Store
+*.log
+*.idea/
+*.vscode/
