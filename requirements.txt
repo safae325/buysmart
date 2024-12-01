@@ -1,5 +1,4 @@
-opencv-python-headless==4.5.5.64  # Headless version for servers
-sqlite3==0.0.1  # If sqlite is imported as a package, though it's often built-in
+opencv-python-headless==4.5.5.64  # Headless version for server
 annotated-types==0.7.0
 anyio==4.6.2.post1
 certifi==2024.8.30
